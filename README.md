@@ -14,7 +14,7 @@ I was able to successfully install Visual Studio Code by following these steps:
 4. Verified the installation by launching Visual Studio Code.
 
 **Screenshot:**  
-![Add Screenshot Here](images/vscode.png)
+![Screenshot for vscode installation](images/vscode.png)
 
 ---
 
@@ -28,7 +28,7 @@ I was able to successfully install VirtualBox by doing the following:
 4. Confirmed the installation by launching VirtualBox.
 
 **Screenshot:**  
-![Add Screenshot Here](images/virtual-box.png)
+![Virtual box instaltion screenshots](images/virtual-box.png)
 
 ---
 
@@ -36,13 +36,13 @@ I was able to successfully install VirtualBox by doing the following:
 
 I was able to successfully install Ubuntu on VirtualBox by:
 
-1. Downloading the Ubuntu ISO file from the [official Ubuntu website](https://ubuntu.com/).
-2. Creating a new virtual machine in VirtualBox and selecting the downloaded ISO file.
-3. Following the installation steps within the virtual machine.
-4. Ensuring Ubuntu was running correctly in VirtualBox.
+1. Downloaded the Ubuntu ISO file from the [official Ubuntu website](https://ubuntu.com/).
+2. Created a new virtual machine in VirtualBox and selecting the downloaded ISO file.
+3. Followed the installation steps within the virtual machine.
+4. Ensured Ubuntu was running correctly in VirtualBox.
 
 **Screenshot:**  
-![Add Screenshot Here](images/ubuntu.png)
+![Screenshot for Ubuntu](images/ubuntu.png)
 
 ---
 
@@ -50,13 +50,13 @@ I was able to successfully install Ubuntu on VirtualBox by:
 
 I was able to successfully set up my GitHub account by:
 
-1. Visiting the [GitHub website](https://github.com/).
-2. Clicking on "Sign up" and filling in the required details.
-3. Verifying my email address and completing the account setup process.
-4. Configuring Git on my local machine to connect with my GitHub account.
+1. Visited the [GitHub website](https://github.com/).
+2. Clicked on "Sign up" and filling in the required details.
+3. Verified my email address and completing the account setup process.
+4. Configured Git on my local machine to connect with my GitHub account.
 
 **Screenshot:**  
-![Add Screenshot Here](images/github.png)
+![Screenshots for github account setup](images/github.png)
 
 ---
 
@@ -64,13 +64,13 @@ I was able to successfully set up my GitHub account by:
 
 I was able to successfully install Git by:
 
-1. Opening the Terminal on macOS.
-2. Running the following command to install Git using Homebrew:
+1. Opened the Terminal on macOS.
+2. Ran the following command to install Git using Homebrew:
    ```bash
    brew install git
    ```
    **Screenshot:**  
-   ![Add Screenshot Here](images/git.png)
+   ![Screenshots for git setup](images/git.png)
 
 ---
 
@@ -78,11 +78,10 @@ I was able to successfully install Git by:
 
 I was able to successfully set up my AWS account by:
 
-1. Navigating to the [AWS website](https://aws.amazon.com/).
-2. Clicking on "Create an AWS Account" and providing the necessary information.
-3. Verifying my identity and payment details.
-4. Logging into the AWS Management Console to confirm the setup.
+1. Navigated to the [AWS website](https://aws.amazon.com/).
+2. Clicked on "Create an AWS Account" and providing the necessary information.
+3. Verified my identity and payment details.
+4. Logged into the AWS Management Console to confirm the setup.
 
 **Screenshot:**  
-![Add Screenshot Here](images/aws.png)
-
+![Screenshot for AWS account setup](images/aws.png)
