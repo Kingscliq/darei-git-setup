@@ -2,6 +2,25 @@
 
 This document outlines the steps I took to set up my development environment, including the installation of Visual Studio Code, VirtualBox, Ubuntu, and the setup of GitHub and AWS accounts. Screenshots are included for better clarity.
 
+Visual Studio Code Welcome Screen
+Git Installation Confirmation
+Oracle VirtualBox Manager Welcome Screen
+Ubuntu Login Prompt in VirtualBox
+GitHub User Account Setup
+AWS User Account Setup
+
+#### Tools needed to be installed
+
+1. Vsisual Studio code
+2. Git
+3. Virtual Box
+4. Ubuntu on Virtual box (Mac OS)
+
+#### Accounts to be created
+
+1. Github account
+2. Amazon Web Services (AWS) Account
+
 ---
 
 ## 1. Installing Visual Studio Code
@@ -13,12 +32,46 @@ I was able to successfully install Visual Studio Code by following these steps:
 3. Opened the downloaded file and followed the installation prompts.
 4. Verified the installation by launching Visual Studio Code.
 
-**Screenshot:**  
-![Screenshot for vscode installation](images/vscode.png)
+Here is the screenshot of Visual studio code welcome screen as I already have it installed on my laptop.
+
+**Visual Studio Code Screenshot:**  
+![Screenshot for vscode installation](images/vs-code-welcome-screen.png)
 
 ---
 
-## 2. Installing VirtualBox
+## 2. Installing Git
+
+I was able to successfully install Git by:
+
+1. Opened the Terminal on macOS.
+2. Ran the following command to install Git using Homebrew:
+
+   ```bash
+   brew install git
+   ```
+
+   Verify Installation:
+
+   ```
+   git --version
+   ```
+
+   Basic Git Setup:
+
+   ```
+   git config --global user.name "Ajaezo Kingsley"
+   git config --global user.email "ajaezokingsley@gmail.com"
+   git init
+   git add .
+   git commit -m "Initial commit"
+   ```
+
+   **Screenshot:**  
+   ![Screenshots for git setup](images/git.png)
+
+---
+
+## 3. Installing VirtualBox
 
 I was able to successfully install VirtualBox by doing the following:
 
@@ -27,12 +80,17 @@ I was able to successfully install VirtualBox by doing the following:
 3. Opened the installer and followed the on-screen instructions.
 4. Confirmed the installation by launching VirtualBox.
 
-**Screenshot:**  
-![Virtual box instaltion screenshots](images/virtual-box.png)
+**Screenshots:**
+
+**Download Page:**  
+![Virtual box installation screenshots](images/virtual-box-download.png)
+
+**Welcome Screen:**  
+![Virtual box installation screenshots](images/virtual-box-welcome-screen.png)
 
 ---
 
-## 3. Installing Ubuntu
+## 4. Installing Ubuntu
 
 I was able to successfully install Ubuntu on VirtualBox by:
 
@@ -46,7 +104,7 @@ I was able to successfully install Ubuntu on VirtualBox by:
 
 ---
 
-## 4. Setting Up a GitHub Account
+## 5. Setting Up a GitHub Account
 
 I was able to successfully set up my GitHub account by:
 
@@ -56,25 +114,11 @@ I was able to successfully set up my GitHub account by:
 4. Configured Git on my local machine to connect with my GitHub account.
 
 **Screenshot:**  
-![Screenshots for github account setup](images/github.png)
+![Screenshots for github account setup](images/git-profile-screenshot.png)
 
 ---
 
-## 4. Installing Git
-
-I was able to successfully install Git by:
-
-1. Opened the Terminal on macOS.
-2. Ran the following command to install Git using Homebrew:
-   ```bash
-   brew install git
-   ```
-   **Screenshot:**  
-   ![Screenshots for git setup](images/git.png)
-
----
-
-## 5. Setting Up an AWS Account
+## 6. Setting Up an AWS Account
 
 I was able to successfully set up my AWS account by:
 
