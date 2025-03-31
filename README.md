@@ -66,8 +66,14 @@ I was able to successfully install Git by:
    git commit -m "Initial commit"
    ```
 
-   **Screenshot:**  
-   ![Screenshots for git setup](images/git.png)
+   **Git website homescreen:**  
+   ![Screenshots for git setup](images/git-website-homepage.png)
+
+   **Brew Installation guide:**  
+   ![Screenshots for git setup](images/brew-download-git-installation.png)
+
+   **Brew Installation confirmation:** Though I already had git installed on my machine
+   ![Screenshots for git setup](images/git-screenshots.png)
 
 ---
 
@@ -99,8 +105,14 @@ I was able to successfully install Ubuntu on VirtualBox by:
 3. Followed the installation steps within the virtual machine.
 4. Ensured Ubuntu was running correctly in VirtualBox.
 
-**Screenshot:**  
+**Screenshot of Ububtu's login terminal:**  
 ![Screenshot for Ubuntu](images/ubuntu.png)
+
+**Screenshot of Ububtu's login terminal on Virtual box:**  
+![Screenshot for Ubuntu](images/ubuntu's-desktop.png)
+
+**Screenshot of Ububtu's login terminal:**  
+![Screenshot for Ubuntu](images/ubuntu's-desktop-on-virtual-box.png)
 
 ---
 
