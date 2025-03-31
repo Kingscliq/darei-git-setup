@@ -109,7 +109,7 @@ I was able to successfully install Ubuntu on VirtualBox by:
 ![Screenshot for Ubuntu](images/ubuntu.png)
 
 **Screenshot of Ububtu's login terminal on Virtual box:**  
-![Screenshot for Ubuntu](images/ubuntu's-desktop.png)
+![Screenshot for Ubuntu](images/ubuntu's-terminal.png)
 
 **Screenshot of Ububtu's login terminal:**  
 ![Screenshot for Ubuntu](images/ubuntu's-desktop-on-virtual-box.png)
