@@ -2,12 +2,6 @@
 
 This document outlines the steps I took to set up my development environment, including the installation of Visual Studio Code, VirtualBox, Ubuntu, and the setup of GitHub and AWS accounts. Screenshots are included for better clarity.
 
-Visual Studio Code Welcome Screen
-Git Installation Confirmation
-Oracle VirtualBox Manager Welcome Screen
-Ubuntu Login Prompt in VirtualBox
-GitHub User Account Setup
-AWS User Account Setup
 
 #### Tools needed to be installed
 
